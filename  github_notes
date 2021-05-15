@@ -1,0 +1,14 @@
+how to create a repository?
+1 open github in chrome
+2 go to repositories click new
+
+ how to bring repository from github to locial
+ 1 open chrome
+ 2 open github
+ 3 click repositories
+ 4 click learning
+ 5 click code
+ 6 copy the link
+ 7 search gitbash
+ 8 go to the directory using cd
+ 9 git clone <LINK_FROM_GITHUB>

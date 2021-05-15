@@ -1,3 +1,10 @@
 how to uninstall program
 1 open control panel
 2 click uninstall program
+
+
+how to see current directory
+1 pwd
+
+how to go to directory
+1 cd <LINK_OF_DIRECTORY>

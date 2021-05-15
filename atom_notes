@@ -1,0 +1,13 @@
+how to add folder to atom
+1 download github repository to local
+2 click files from menu
+3 click "Add project folder"
+
+how to send code from atom to github
+1 right click learning
+2 create new file
+3 click save
+4 click stage all
+5 write commit message
+6 click commit to main
+7 click push
