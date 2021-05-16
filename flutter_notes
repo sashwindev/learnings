@@ -5,3 +5,13 @@ how to run program in flutter
 shortcuts
 1 stful
 2 stless
+3 ctrl+space
+
+rules for flutter
+1 class first letter caps
+
+cyclerederece error:
+1 click terminal
+2 go to project directory
+3 flutter clean
+4 flutter run
