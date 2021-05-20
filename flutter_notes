@@ -8,10 +8,16 @@ shortcuts
 3 ctrl+space
 
 rules for flutter
-1 class first letter caps
+1 class first letter
 
-cyclerederece error:
+cyclic redundancy error:
 1 click terminal
 2 go to project directory
 3 flutter clean
 4 flutter run
+3 click 1
+4 click powershell
+click kill terminal
+
+firewal error:
+1 restart
