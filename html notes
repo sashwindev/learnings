@@ -1,0 +1,205 @@
+
+DATE: NETWORKING CONCEPTS
+NEED FOR NETWORKING:
+ RESOURCE SHARING
+ RELIABILITY
+ REDUCED COST
+ FAST COMMUNICATION
+TYPES OF NETWORK:
+LOCAL AREA NETWORK (LAN)
+WIDE AREA NETWORK (WAN)
+METROPOLITAN AREA NETWORK (MAN)
+ A domain name is your website name.
+DATE: HTML
+HTML stands for Hyper Text Markup Language
+HTML EDITOR
+TEXT EDITOR
+ NOTEPAD
+ WORDPAD
+WYSIWYG EDITOR
+ MS FRONT PAGE
+ ADOBE DREAM WEAVER
+HTML ELEMENTS
+ ROOT ELEMENT
+ HEAD ELEMENT
+ BODY ELEMENT
+------------------------------------------------------------------------
+DATE: COMMENT
+ <!-- -->
+Whatever we type inside this TAG will be ignored by
+the computer. This is for our reference.
+________________________________________
+HTML-FORMATTING TAGS
+ Create a webpage for your school and change the
+background colour, text colour, FONT style, colour, size, make
+it Bold, Underline, Italic, insert left and top margin.
+<HTML>
+<HEAD>
+<TITLE>
+SSVM
+</TITLE>
+</HEAD>
+<!--To change the font styles-->
+<BODY bgcolor="pink" text="green" leftmargin="50"
+ topmargin="100">
+<B> WELCOME TO SSVM WORLD SCHOOL</B>
+<I> WELCOME TO SSVM WORLD SCHOOL</I>
+<FONT FACE="CHILLER" SIZE="5" COLOR="RED">
+<U> WELCOME TO SSVM WORLD SCHOOL </U>
+</FONT>
+</BODY>
+</HTML>
+------------------------------------------------------------------------
+ Date: HTML
+
+PARAGRAPH TAG, BR TAG & HR TAG
+(<BR> TAG is used to break the line,
+<HR> TAG is used to create a horizontal line.)
+ Create a webpage for your own company. Change the
+PARAGRAPH alignment, insert HORIZONTAL RULER.
+<HTML>
+<HEAD>
+<TITLE>
+MY COMPANY
+</TITLE>
+</HEAD>
+ <BODY bgcolor="YELLOW" leftmargin="50" topmargin="50">
+<FONT FACE="jokerman" SIZE="2" COLOR="BLUE">
+<P ALIGN="CENTER"> COMPANY NAME </P>
+<P ALIGN="LEFT"> COMPANY ADDRESS </P>
+<HR SIZE="8" COLOR="GREEN" >
+<P ALIGN=" JUSTIFY "> TYPE FEW LINES ABOUT YOUR
+COMPANY <BR> TYPE FEW LINES </P>
+<P ALIGN="RIGHT"> SPECIAL OFFERS </P>
+</FONT>
+</BODY>
+</HTML>
+-----------------------------------------------------------------------------------
+Date: HTML
+HEADING TAG & MARQUEE TAG
+ Create a webpage for online shopping, use the HEADING TAG
+AND MARQUEE TAG.
+<HTML>
+<HEAD>
+<TITLE>
+Online shopping
+</TITLE>
+</HEAD>
+<BODY bgcolor="pink" leftmargin="50" topmargin="50">
+<FONT FACE="CHILLER" SIZE="10" COLOR="RED">
+<MARQUEE BEHAVIOR="ALTERNATE (or) SCROLL"
+DIRECTION=”LEFT” BGCOLOR=”GREEN”>
+WELCOME TO ONLINE SHOPPING
+</MARQUEE>
+</FONT>
+<H1> ONLINE SHOPPING </H1>
+<H2> TODAY’S OFFER </H2>
+<H3> SPORTS ITEMS </H3>
+<H4> KIDS SECTION </H4>
+<H5> MENS SECTION </H5>
+<H6> WOMENS SECTION </H6>
+</BODY>
+</HTML>
+------------------------------------------------------------------------
+4
+Date: HTML
+IMAGE TAG
+● Create a webpage with background picture and insert an
+image in the webpage.
+<HTML>
+<HEAD>
+<TITLE>
+PARK
+</TITLE>
+</HEAD>
+<BODY BACKGROUND="LOCATION OF THE PICTURE\NAME
+OF THE PICTURE.TYPE OF FILE">
+<FONT FACE="CHILLER" SIZE="10" COLOR="RED">
+<MARQUEE DIRECTION=LEFT BGCOLOR=GREEN>
+ITS TIME TO PLAY
+</MARQUEE>
+<IMG SRC=" LOCATION OF THE PICTURE\NAME OF THE
+PICTURE.TYPE OF FILE " HEIGHT=100 WIDTH=100>
+</BODY>
+</HTML>
+-----------------------------------------------------------------------------------
+Date: HTML
+HYPERLINK TAG
+● Create a website using hyperlink tag to open another
+webpage and picture.
+<HTML>
+<HEAD>
+<TITLE>
+LINK
+</TITLE>
+</HEAD>
+<BODY BGCOLOR=YELLOW TEXT=RED>
+LINK TO OPEN A HTML PROGRAM
+<A HREF="________.HTML">
+CLICK HERE FOR HTML PROGRAM
+</A> <BR>
+LINK TO OPEN A PICTURE
+<A HREF="LOCATION OF THE PICTURE\NAME OF THE
+PICTURE.TYPE OF FILE ">
+CLICK HERE FOR PICTURE
+</A>
+</BODY>
+</HTML>
+--------------------------------------------------------------------------------
+DATE: HTML
+LIST TAG
+● Create a Html Document Using LIST Tags
+(OL type may be A/a/i/I/1 UL type may be disc/ circle/ square)
+<HTML> <HEAD>
+<TITLE> LIST </TITLE>
+</HEAD>
+<BODY BGCOLOR=ORANGE>
+<CENTER>
+<H1> <U> SUBJECTS AND ACTIVITIES </U> </H1>
+</CENTER>
+<HR SIZE=10 COLOR=BLUE>
+<H4> SUBJECTS </H4>
+<OL TYPE=A>
+<LI>ENGLISH
+<LI>LANGUAGE
+<LI>MATHS
+<LI>SOCIAL SCIENCE
+<LI>SCIENCE
+</OL>
+<H4> ACTIVITES </H4>
+<UL TYPE=DISC>
+<LI>SWIMMING
+<LI>DANCE
+<LI>YOGA
+<LI>GUITAR
+<LI>BAND
+</UL>
+</BODY> </HTML>
+-----------------------------------------------------------------------------------
+DATE: HTML
+TABLE TAG
+● Create a timetable Using TABLE Tag
+<HTML>
+<HEAD>
+<TITLE>
+TIMETABLE
+</TITLE>
+</HEAD>
+<BODY BGCOLOR=PINK>
+<TABLE BORDER=4 ALIGN=CENTER>
+<CAPTION> TIMETABLE </CAPTION>
+<TR BGCOLOR=WHITE> <TH> DAY <TH> 1 <TH> 2
+<TH> 3 <TH> 4 </TR>
+<TR BGCOLOR=GREEN> <TD> MONDAY <TD> MAT <TD>
+ENG <TD> SCI <TD> LAN </TR>
+<TR BGCOLOR=YELLOW> <TD> TUESDAY <TD> ENG <TD> P.T
+<TD> SOC <TD> COM </TR>
+<TR BGCOLOR=BLUE> <TD> WEDNESDAY <TD> LAN <TD> SCI
+<TD> MAT <TD> LIB </TR>
+<TR BGCOLOR=RED> <TD> THURSDAY <TD> SOC <TD>
+MAT <TD> P.T <TD> SCI </TR>
+<TR BGCOLOR=ORANGE> <TD> FRIDAY <TD> ENG <TD>
+MAT <TD> SOC <TD> SCI </TR>
+</BODY>
+</HTML>
+-----------------------------------------------------------------------------------
