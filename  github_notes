@@ -10,9 +10,9 @@ how to create a repository?
  1 open chrome
  2 open github
  3 click repositories
- 4 click learning
- 5 click code
+ 4 click <REPOSITORY NAME> which you want to move
+ 5 click code button in green colour
  6 copy the link
- 7 search gitbash
+ 7 search gitbash from windows
  8 go to the directory using cd
- 9 git clone <LINK_FROM_GITHUB>
+ 9 enter command -> git clone <LINK_FROM_GITHUB>
