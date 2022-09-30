@@ -6,5 +6,11 @@ how to uninstall program
 how to see current directory
 1 pwd
 
-how to go to directory
+how to go inside the folder
 1 cd <LINK_OF_DIRECTORY>
+
+To see all the files
+ls -l
+
+To come out of folder
+cd ..
